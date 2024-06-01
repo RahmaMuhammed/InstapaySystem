@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-11-15T20:08:25.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A91ymhL7ggnqqe5LYBs6" version="22.1.1" type="github">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-29" value="Console" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="150" height="538" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-29">
+          <mxGeometry x="70" y="100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-29">
+          <mxGeometry x="70" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-30" value="ApplicationService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="514" y="20" width="151" height="538" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-30">
+          <mxGeometry x="70.5" y="150" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-31" value="BillGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="795" y="20" width="150" height="538" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-31">
+          <mxGeometry x="70" y="200" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-32" value="GasBillPaymentStrategy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="995" y="20" width="186" height="538" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-32">
+          <mxGeometry x="88" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-35" value="Enter choice" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="wvc4FWPn7CzgJZ27KtBk-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="129" />
+            </Array>
+            <mxPoint x="94.5" y="129" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-36" value="PayBill(bill, billPaymentStrategy)" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-29" target="wvc4FWPn7CzgJZ27KtBk-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-37" value="GenerateBill(billType, amount)" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-30" target="wvc4FWPn7CzgJZ27KtBk-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-38" value="Bill" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-31" target="wvc4FWPn7CzgJZ27KtBk-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-39" value="PayBill(bill)" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-30" target="wvc4FWPn7CzgJZ27KtBk-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="849" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-40" value="true" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-32" target="wvc4FWPn7CzgJZ27KtBk-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="849" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-41" value="Display balance" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="wvc4FWPn7CzgJZ27KtBk-30" target="wvc4FWPn7CzgJZ27KtBk-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-42" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="20" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="wvc4FWPn7CzgJZ27KtBk-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="wvc4FWPn7CzgJZ27KtBk-42">
+          <mxGeometry x="5" y="70" width="10" height="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
